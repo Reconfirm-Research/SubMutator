@@ -15,7 +15,6 @@ A simple Python script for analyzing and generating subdomain variations based o
 
 - Smart Pattern Recognition:
   - Preserves domain structure
-  - Maintains original dot notation
   - Intelligent environment word handling
 
 - Cloud Region Support:
